@@ -1,0 +1,8 @@
+ <section id="Home">
+           <div>
+           <h1>Chalapathi Chemistry Coaching Centre </h1>
+            <img src="images/md.jpeg" alt="" style="height: 330px;">
+          
+       
+    </div>
+       </section>
