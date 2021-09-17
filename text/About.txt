@@ -1,0 +1,23 @@
+ <section id="About">
+        <div class="About_us">
+            <h2 class="about">About us</h2>
+            <div class="container">
+                <div class="content">
+                    <div class="i2">
+                        <img src="image/md.jpeg" alt="" >
+                    </div>
+                    <h4>Dr.Ch.V.Chalapathi Rao</h4>
+                    <p> </p>         
+                        
+                        <div class="social">
+                        <h4>Follow us</h4>
+                    <a  class="link1" href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a class="link1" href="#"><i class="fab fa-whatsapp"></i></a>
+                    <a class="link1" href="#"><i class="fab fa-instagram"></i></a> 
+                </div>
+                </div>
+                
+            </div>
+        </div>
+           
+       </section>

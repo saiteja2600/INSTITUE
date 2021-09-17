@@ -1,0 +1,27 @@
+<section id="Contact">
+  <div class="container-contact">
+    <div class="header">
+    <h5>Contact</h5>
+    </div>
+    <form action="Home.html">
+      <div class="form-group">
+        <label for="user">Username:</label>
+        <input type="text" name="username" id="usernames"class="form-control" required>
+        <h6 id="usercheck">**Username is missing</h6>
+        <div class="form-group">
+          <label for="user">Email:</label>
+          <input type="email" name="email" id="email"class="form-control"required>
+         
+          <h6 id="emailvalid">Your email must  valid</h6>
+        </div>
+          <div class="form-group">
+          <label for="user">Phone:</label>
+          <input type="phone" name="phone" id="phones"class="form-control"required>
+          <h6 id="phonevalid" >Your phonenumber must be valid</h6>
+        </div>
+      </div>
+      <input type="submit" value="submit" id="submitbtn"class="btn-btn-primary">
+    </form>  
+    
+  </div>
+</section>

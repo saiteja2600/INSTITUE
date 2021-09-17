@@ -1,0 +1,35 @@
+       <section id="Course">
+           <div class="container">
+               <h3>Degree</h3>
+           <table class="table">
+                <thead>
+                    <tr>
+                        <th>  1stYear</th>
+                        <th>2ndYear</th>
+                        <th>3rdYear</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <td>Semister1 <button class="btn1"><i class="fas fa-file-download">Download</i> </button> </td>
+                    <td>Semister3<button class="btn1"><i class="fas fa-file-download">Download</i> </button></td>
+                    <td>Semister5A<button class="btn1"><i class="fas fa-file-download">Download</i> </button></td>
+                </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                    <td>Semister2 <button class="btn1"><i class="fas fa-file-download">Download</i> </button> </td>
+                    <td>Semister4<button class="btn1"><i class="fas fa-file-download">Download</i> </button></td>
+                    <td>Semister5B<button class="btn1"><i class="fas fa-file-download">Download</i> </button></td>
+                </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                    <td> </td>
+                    <td></td>
+                    <td>Semister6<button class="btn1"><i class="fas fa-file-download">Download</i></button></td>
+                </tr>
+                </tbody>
+           </table>
+        </div>
+       </section>
